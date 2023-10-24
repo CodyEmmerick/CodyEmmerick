@@ -12,9 +12,9 @@
 
   - [Exploiting Common Vulnerabilities](https://docs.google.com/document/d/1fBvUyLgk3jY84UsqqAFEjS8yadq0gSrVZyhyNQV8qeI/preview)
 
-   - [Steganography using Hex Editors](https://docs.google.com/document/d/1QqyWO81NTfeivRvH7c9SuICQIbnUufpUMU9WaqCAi6k/edit)
+   - [Steganography Using Hex Editors](https://docs.google.com/document/d/1QqyWO81NTfeivRvH7c9SuICQIbnUufpUMU9WaqCAi6k/edit)
 
-   -   [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/preview)
+   -   [Veracrypt](https://docs.google.com/document/d/1PpIWn5KdLIiDm1VSZfIt9DEka2saXH5lON2YldjVGl8/preview)
 
  
 

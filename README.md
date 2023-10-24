@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Zeus Project](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Radius Configuration Project]()
-  - [Snort Configuration Project]()
-  - [Nessus Vulnerability Management Project]()
+  - [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/edit)
+  - [Radius Configuration Project](https://docs.google.com/document/d/13XJNQ8QI4Sj6_-m3W17osi2X85B36X0GXQy3dHwM7C0/edit)
+  - [Snort Configuration Project](https://docs.google.com/document/d/1XSqvJgrKTxtxHQbgpz5HSz1YAkFj8t1CZzGfOlIhuaU/edit)
+  - [Nessus Vulnerability Management Project](https://docs.google.com/document/d/1a-bIj3aFXtypyTt_IrXdlfe3SaDu-gvDIDdUvBFbK2Y/edit)
 
 <h2> 📃 Certifications:</h2>
 

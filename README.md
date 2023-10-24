@@ -20,12 +20,14 @@
 
  - [Intro to Shell and Commands](https://docs.google.com/document/d/1WnDl5h3x83_KVm_0umQZPrKG91bSsnHtWhj_6uNGMrw/preview)
  - [Managing Users](https://docs.google.com/document/d/1nc6dFfnf0MSKiZf82-vKjJlLaJTKAn3PM-sRouraM88/preview)
- - [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/preview)
- - [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/preview)
- - [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/preview)
- - [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/preview)
- - [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/preview)
- - [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/preview)
+ - [Bash Scripting](https://docs.google.com/document/d/1K9ONRTe7Ly8V2H71yc3xxbINOE99ghcCyhy2gtsJEvE/preview)
+ - [Loops](https://docs.google.com/document/d/1-u0ydmUqVfh8IGcAnAx6TdZAYtVJzAWL7bqjryOGK0w/preview)
+ - [Documentation ELSEIF](https://docs.google.com/document/d/1sWiSArL70u_a0jYDhCPYxv4jtXqKPYO6gkmNncdYO6w/preview)
+ - [SSH Configuration](https://docs.google.com/document/d/18RqRyB4SUkN5GFbO-dcT-fmSnBTVSgOX5qC3EmNEe4c/preview)
+ - [Networking pt 1](https://docs.google.com/document/d/1HVs60yIAu-FxKZgzrr9-EM85GZ-9cAAFS_txa00f_mQ/preview)
+ - [Networking pt 2](https://docs.google.com/document/d/11YC54I4GnxBhjziQUvzqbqFqRLKDmuy81qfMFBGziSs/preview)
+ - [Robust IP Changer 1](https://docs.google.com/document/d/1h55Nvt0ZP-wz1sF_z7wOsz4Oh7FJyWzG3Qk6OQdDWBY/preview)
+ - [Robust IP Changer 2](https://docs.google.com/document/d/1amdK7QhuA_EZra5Dji-Ew5bIdDCFj7Tz8RdaeEOVRyo/preview)
 
  
 

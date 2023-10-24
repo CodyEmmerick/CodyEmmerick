@@ -8,8 +8,7 @@
   - [Nessus Vulnerability Management Project](https://docs.google.com/document/d/1a-bIj3aFXtypyTt_IrXdlfe3SaDu-gvDIDdUvBFbK2Y/preview)
 
 <h2>👨‍💻 Cybersecurity Labs:</h2>
-  - [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/preview)
-    
+  - [Exploiting Common Vulnerabilities](https://docs.google.com/document/d/1fBvUyLgk3jY84UsqqAFEjS8yadq0gSrVZyhyNQV8qeI/preview)
 
 
 

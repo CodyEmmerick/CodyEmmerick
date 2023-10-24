@@ -7,8 +7,20 @@
   - [Snort Configuration Project](https://docs.google.com/document/d/1XSqvJgrKTxtxHQbgpz5HSz1YAkFj8t1CZzGfOlIhuaU/preview)
   - [Nessus Vulnerability Management Project](https://docs.google.com/document/d/1a-bIj3aFXtypyTt_IrXdlfe3SaDu-gvDIDdUvBFbK2Y/preview)
 
+
 <h2>👨‍💻 Cybersecurity Labs:</h2>
+
   - [Exploiting Common Vulnerabilities](https://docs.google.com/document/d/1fBvUyLgk3jY84UsqqAFEjS8yadq0gSrVZyhyNQV8qeI/preview)
+
+   - [Steganography using Hex Editors](https://docs.google.com/document/d/1QqyWO81NTfeivRvH7c9SuICQIbnUufpUMU9WaqCAi6k/edit)
+
+   -   [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/preview)
+
+ 
+
+ 
+
+  
 
 
 

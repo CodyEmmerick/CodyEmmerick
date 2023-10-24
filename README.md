@@ -7,6 +7,13 @@
   - [Snort Configuration Project](https://docs.google.com/document/d/1XSqvJgrKTxtxHQbgpz5HSz1YAkFj8t1CZzGfOlIhuaU/edit)
   - [Nessus Vulnerability Management Project](https://docs.google.com/document/d/1a-bIj3aFXtypyTt_IrXdlfe3SaDu-gvDIDdUvBFbK2Y/edit)
 
+<h2>👨‍💻 Cybersecurity Labs:</h2>
+- [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/edit)
+- [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/edit)
+- [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/edit)
+
+
+
 <h2> 📃 Certifications:</h2>
 
  - [IT Support Certificate: IT Support - Google IT Support](https://www.credly.com/badges/326ce8b9-240d-41fe-b965-734c1ace2247/linked_in_profile)

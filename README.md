@@ -16,6 +16,17 @@
 
    -   [Veracrypt](https://docs.google.com/document/d/1PpIWn5KdLIiDm1VSZfIt9DEka2saXH5lON2YldjVGl8/preview)
 
+<h2>👨‍💻 Linux Documentation:</h2>
+
+ - [Intro to Shell and Commands](https://docs.google.com/document/d/1WnDl5h3x83_KVm_0umQZPrKG91bSsnHtWhj_6uNGMrw/preview)
+ - [Managing Users](https://docs.google.com/document/d/1nc6dFfnf0MSKiZf82-vKjJlLaJTKAn3PM-sRouraM88/preview)
+ - [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/preview)
+ - [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/preview)
+ - [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/preview)
+ - [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/preview)
+ - [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/preview)
+ - [Zeus Project](https://docs.google.com/document/d/1AQRJWavqh3HUANatWasydc8QkTKts1z-r7QdZNLb_30/preview)
+
  
 
  
